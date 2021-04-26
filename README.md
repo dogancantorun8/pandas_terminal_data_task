@@ -1,5 +1,8 @@
 # pandas_terminal_data_task 
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)   
+
+
 Question
 
 Write a python script using pandas that finds and prints:
