@@ -41,9 +41,10 @@ $ python3 solution.py --min-date 2020-02-01 --max-date 2020-06-30 --top 2
 
 -- top seller product --
   name  quantity
- p-103        33
- p-102        24
- p-110        24
+
+p-103        33
+p-102        24
+p-110        24
 
 -- top seller store --
 name  quantity
