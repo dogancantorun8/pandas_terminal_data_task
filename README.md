@@ -39,26 +39,5 @@ Expected command and output:
 
 $ python3 solution.py --min-date 2020-02-01 --max-date 2020-06-30 --top 2
 
--- top seller product --
-  name  quantity
+![pandas_terminal](https://user-images.githubusercontent.com/48547417/116120366-21764080-a6c8-11eb-8bd8-aea58ef76bce.PNG)
 
-p-103        33
-p-102        24
-p-110        24
-
--- top seller store --
-name  quantity
- s-3        42
- s-2        36
- s-7        36
-
--- top seller brand --
-    brand  quantity
- yoyodyne       100
-     acme        65
-
-
--- top seller city --
-      city  quantity
-    gotham       108
- coruscant        78
