@@ -1,8 +1,8 @@
 # pandas_terminal_data_task 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)   
-https://www.code-inspector.com/project/21979/score/svg 
-https://www.code-inspector.com/project/21979/status/svg
+![code quality score ]https://www.code-inspector.com/project/21979/score/svg 
+![code quality grade ]https://www.code-inspector.com/project/21979/status/svg
 
 Question
 
